@@ -4,6 +4,9 @@
 - 💻 Frontend web developer
 - 💬 She/Her
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-f-kay&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### Things I like and wish to improve 💫:
 
 | Skill               | Level                     |
