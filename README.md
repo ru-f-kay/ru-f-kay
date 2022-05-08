@@ -2,21 +2,37 @@
 - 🍰 March 3
 - 🏡 Moscow, Russia
 - 💻 Frontend web developer
+<!--
 - 💬 She/Her
+-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-f-kay&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-f-kay&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+#### History 📖:
+| Time                  | Description              |
+| --------------------  | ------------------------ |
+| Mar 1997 - Oct 2014   | Born, grown, school and stuff. Good old times 🌝 |
+| Oct 2014 - *Jul 2018* | 👩‍🎓 Graduated as Computer Engineer (Bachelor) |
+| *Apr 2018* - Aug 2019 | C/C++ dev. `socket.h`, `pthread.h`, `Qt` |
+| Aug 2019 - Nov 2021   | React dev. `TypeScript`, `MobX`, `Redux`, `Docker` |
+| Nov 2021 - Jan 2022   | 🏖 *Chill time* 🏖 |
+| Jan 2022 - Feb 2022   | Fullstack dev. `AdonisJS`, `nestjs`, `TypeScript`, `TypeORM`, `Docker`, `VueJS` |
+| Feb 2022 - **Now**   | 💤 *&lt;AFK&gt;* 💤 |
+
 
 
 #### Things I like and wish to improve 💫:
 
 | Skill               | Level                     |
 | ------------------- |:-------------------------:|
-| React               | 🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️ |
-| TypeScript          | 🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️ |
+| React               | 🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️ |
+| TypeScript          | 🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️ |
 | ES6                 | 🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️ |
 | MobX                | 🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️ |
 | Redux               | 🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️ |
-| Effector            | 🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ |
+| Effector            | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️ |
 | CSS, SASS...        | 🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️ |
 | Next.js             | 🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ |
 | Webpack             | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️ |
@@ -24,6 +40,7 @@
 | Python+Django       | 🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️ |
 | Linux+Arch          | 🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️ |
 | Git                 | 🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️ |
+| Bash                | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️ |
 
 #### Things I touched sometime / Not interested in right now 🌠:
 
