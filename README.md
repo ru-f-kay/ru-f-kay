@@ -7,9 +7,11 @@
 -->
 
 <br />
+
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-f-kay&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
 <!--
 #### History 📖:
 | Time                  | Description              |
@@ -22,10 +24,8 @@
 | Jan 2022 - Feb 2022   | Fullstack dev. `AdonisJS`, `nestjs`, `TypeScript`, `TypeORM`, `Docker`, `VueJS` |
 | Feb 2022 - **Now**   | 💤 *&lt;AFK&gt;* 💤 |
 
-
-
-#### Things I like and wish to improve 💫:
 -->
+
 #### ⭐ Main skills ⭐
 | Skill               | Level                     |
 | ------------------- |:-------------------------:|
@@ -47,6 +47,8 @@
 | Linux+Arch          | 🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️ |
 | Git                 | 🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️ |
 | Bash                | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️ |
+
+
 <!--
 #### Things I touched sometime / Not interested in right now 🌠:
 
