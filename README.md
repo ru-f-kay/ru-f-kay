@@ -7,9 +7,9 @@
 -->
 
 <br />
-
+<!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-f-kay&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 #### History 📖:
 | Time                  | Description              |
