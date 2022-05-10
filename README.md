@@ -10,6 +10,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-f-kay&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 #### History 📖:
 | Time                  | Description              |
 | --------------------  | ------------------------ |
@@ -51,3 +52,4 @@
 | Rust                | 🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️ |
 | AdonisJS            | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️ |
 | NestJS              | 🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ |
+-->
