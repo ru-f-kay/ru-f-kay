@@ -4,10 +4,9 @@
 - 💻 Frontend web developer
 <!--
 - 💬 She/Her
--->
 
 <br />
-
+-->
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ru-f-kay&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -25,7 +24,6 @@
 | Feb 2022 - **Now**   | 💤 *&lt;AFK&gt;* 💤 |
 
 -->
-
 <!--
 #### ⭐ Main skills ⭐
 | Skill               | Level                     |
@@ -49,7 +47,6 @@
 | Git                 | 🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️ |
 | Bash                | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️ |
 -->
-
 <!--
 #### Things I touched sometime / Not interested in right now 🌠:
 
